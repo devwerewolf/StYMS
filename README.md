@@ -2,6 +2,12 @@
 
 A.k.a. "Karen Simulator 2020"
 
+Time: 12 hours
+Streams: 3
+Tools: p5.js Online Editor
+
+# [Play here!](https://editor.p5js.org/syntaxiom/present/kgf4_Q-iA)
+
 ## TODO
 
 - [x] Tiles
@@ -9,10 +15,10 @@ A.k.a. "Karen Simulator 2020"
   - [x] Movement
   - [x] Collision
   - [x] Animation
-- [ ] Systems
-  - [ ] Dialogue
-  - [ ] Battle
-  - [ ] Level progression
+- [x] Systems
+  - [x] Dialogue
+  - [x] Battle
+  - [x] Level progression
 - [ ] Misc.
   - [ ] Lore
   - [ ] RNG
