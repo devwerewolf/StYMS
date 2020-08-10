@@ -1,7 +1,6 @@
 class Sprite {
-  constructor(tilemap, referenceName) {
-    this.tilemap = tilemap;
-    this.reference = this.tilemap.tileDictionary[referenceName];
+  constructor(referenceName) {
+    this.reference = window.tilemap.tileDictionary[referenceName];
     
     this.frames = [];
     this.frameCount = 0;
@@ -20,7 +19,7 @@ class Sprite {
     let frameIndex = specificFrameIndices[Math.floor((this.frameCount % maxLength) / cycleLength)];
     let frame = this.frames[frameIndex];
     
-    this.tilemap.drawTile(dx, dy, frame.x, frame.y);
+    window.tilemap.drawTile(dx, dy, frame.x, frame.y);
     this.frameCount++;
   }
   

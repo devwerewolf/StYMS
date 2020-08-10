@@ -1,0 +1,17 @@
+{
+  "battler": {
+    "health": 100,
+    "maxHealth": 100,
+    "exp": 0,
+    "atk": 1,
+    "def": 1,
+    "levels": [20, 60, 180, 540, 1320, 3960]
+  },
+  "character": {
+    "tileBlock": "soccer_mom",
+    "animations": ["walkingAnimation"],
+    "x": 5,
+    "y": 7,
+    "speed": 0.25
+  }
+}

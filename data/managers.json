@@ -1,0 +1,242 @@
+[
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 10,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_5",
+      "animations": ["walkingAnimation"],
+      "x": 16,
+      "y": 9,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 10,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_5",
+      "animations": ["walkingAnimation"],
+      "x": 23,
+      "y": 6,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 10,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_5",
+      "animations": ["walkingAnimation"],
+      "x": 8,
+      "y": 17,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 30,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_4",
+      "animations": ["walkingAnimation"],
+      "x": 4,
+      "y": 6,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 30,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_4",
+      "animations": ["walkingAnimation"],
+      "x": 14,
+      "y": 16,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 30,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_4",
+      "animations": ["walkingAnimation"],
+      "x": 8,
+      "y": 8,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 50,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_3",
+      "animations": ["walkingAnimation"],
+      "x": 7,
+      "y": 7,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 50,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_3",
+      "animations": ["walkingAnimation"],
+      "x": 9,
+      "y": 9,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 50,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_3",
+      "animations": ["walkingAnimation"],
+      "x": 11,
+      "y": 11,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 100,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_2",
+      "animations": ["walkingAnimation"],
+      "x": 11,
+      "y": 7,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 100,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_2",
+      "animations": ["walkingAnimation"],
+      "x": 13,
+      "y": 9,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 100,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_2",
+      "animations": ["walkingAnimation"],
+      "x": 15,
+      "y": 17,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 300,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_1",
+      "animations": ["walkingAnimation"],
+      "x": 20,
+      "y": 14,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 300,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_1",
+      "animations": ["walkingAnimation"],
+      "x": 16,
+      "y": 13,
+      "speed": 0
+    }
+  },
+  {
+    "battler": {
+      "health": 5,
+      "maxHealth": 5,
+      "exp": 300,
+      "atk": 2,
+      "def": 0
+    },
+    "character": {
+      "tileBlock": "manager_1",
+      "animations": ["walkingAnimation"],
+      "x": 18,
+      "y": 16,
+      "speed": 0
+    }
+  }
+]
